@@ -1,0 +1,2 @@
+# Pryzm.InstaInsights
+(Old Backup) A piece of software written to specification for a client that would scan an Instagram profile get all posts without developer API access and using an algorithm calculate the best time/date to post for the most engagement it would also determine what hashtags and emojis work the best. Employed multi-threading to ensure speed wasn’t an issue when scraping information.
